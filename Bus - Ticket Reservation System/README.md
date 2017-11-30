@@ -1,4 +1,4 @@
-#Bus and Ticket Reservation system
+# Bus Ticket Reservation System
 
 3 class used:
 
